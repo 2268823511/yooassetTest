@@ -1,0 +1,838 @@
+{
+    "Summary": {
+        "YooVersion": "2.3.10",
+        "UnityVersion": "2021.3.23f1",
+        "BuildDate": "2025/9/24 23:40:38",
+        "BuildSeconds": 6,
+        "BuildTarget": 19,
+        "BuildPipeline": "ScriptableBuildPipeline",
+        "BuildBundleType": 2,
+        "BuildPackageName": "DefaultPackage",
+        "BuildPackageVersion": "0.1",
+        "BuildPackageNote": "2025/9/24 23:40:32",
+        "UniqueBundleName": true,
+        "EnableAddressable": false,
+        "LocationToLower": false,
+        "IncludeAssetGUID": false,
+        "AutoCollectShaders": true,
+        "IgnoreRuleName": "YooAsset.Editor.NormalIgnoreRule",
+        "ClearBuildCacheFiles": true,
+        "UseAssetDependencyDB": true,
+        "EnableSharePackRule": true,
+        "SingleReferencedPackAlone": true,
+        "EncryptionClassName": "null",
+        "FileNameStyle": 0,
+        "CompressOption": 2,
+        "DisableWriteTypeTree": false,
+        "IgnoreTypeTreeChanges": true,
+        "WriteLinkXML": true,
+        "CacheServerHost": "",
+        "CacheServerPort": 0,
+        "BuiltinShadersBundleName": "defaultpackage_unityshaders.bundle",
+        "MonoScriptsBundleName": "",
+        "AssetFileTotalCount": 20,
+        "MainAssetTotalCount": 20,
+        "AllBundleTotalCount": 6,
+        "AllBundleTotalSize": 1316938,
+        "EncryptedBundleTotalCount": 0,
+        "EncryptedBundleTotalSize": 0
+    },
+    "AssetInfos": [
+        {
+            "Address": "",
+            "AssetPath": "Assets/Res/Prefab/Model/Prefabs With Fruits/Lemon Tree 1 w Fruits.prefab",
+            "AssetGUID": "46dea74f7999f4c4f9d26ad24b8282c6",
+            "AssetTags": [
+                "Plant"
+            ],
+            "MainBundleName": "defaultpackage_assets_res_prefab_model_prefabs_with_fruits.bundle",
+            "MainBundleSize": 3759,
+            "DependAssets": [
+                {
+                    "AssetPath": "Assets/Res/Prefab/Model/Source/lemon trees w fruits.fbx",
+                    "AssetGUID": "98b0ccf8b6592394f847463b75d797f7"
+                },
+                {
+                    "AssetPath": "Assets/Res/Prefab/Model/Source/Materials/Lemon Bark.mat",
+                    "AssetGUID": "c5cedbf48b824b1419e18ddea44455cb"
+                },
+                {
+                    "AssetPath": "Assets/Res/Prefab/Model/Source/Materials/Lemon Branch.mat",
+                    "AssetGUID": "919766340a0cc574b9c8d588f0f58af4"
+                },
+                {
+                    "AssetPath": "Assets/Res/Prefab/Model/Source/Textures/Lemon Bark Color.png",
+                    "AssetGUID": "8d928fcad34ba0242a75b360decfed98"
+                },
+                {
+                    "AssetPath": "Assets/Res/Prefab/Model/Source/Textures/Lemon Bark Normal.png",
+                    "AssetGUID": "8c03514cee68022409c778c5912c6426"
+                },
+                {
+                    "AssetPath": "Assets/Res/Prefab/Model/Source/Textures/Lemon Branch Color.png",
+                    "AssetGUID": "b546e2259560a7541ad7cb60338d3d7d"
+                },
+                {
+                    "AssetPath": "Assets/Res/Prefab/Model/Source/Textures/Lemon Branch Normal.png",
+                    "AssetGUID": "984330eebef34dc4d9b1cd7cebda3c01"
+                }
+            ],
+            "DependBundles": [
+                "defaultpackage_assets_res_prefab_model_source.bundle",
+                "defaultpackage_assets_res_prefab_model_source_materials.bundle",
+                "defaultpackage_assets_res_prefab_model_source_textures.bundle",
+                "defaultpackage_unityshaders.bundle"
+            ]
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/Res/Prefab/Model/Prefabs With Fruits/Lemon Tree 2 w Fruits.prefab",
+            "AssetGUID": "e1a86f799eb10924597db250eb786896",
+            "AssetTags": [
+                "Plant"
+            ],
+            "MainBundleName": "defaultpackage_assets_res_prefab_model_prefabs_with_fruits.bundle",
+            "MainBundleSize": 3759,
+            "DependAssets": [
+                {
+                    "AssetPath": "Assets/Res/Prefab/Model/Source/lemon trees w fruits.fbx",
+                    "AssetGUID": "98b0ccf8b6592394f847463b75d797f7"
+                },
+                {
+                    "AssetPath": "Assets/Res/Prefab/Model/Source/Materials/Lemon Bark.mat",
+                    "AssetGUID": "c5cedbf48b824b1419e18ddea44455cb"
+                },
+                {
+                    "AssetPath": "Assets/Res/Prefab/Model/Source/Materials/Lemon Branch.mat",
+                    "AssetGUID": "919766340a0cc574b9c8d588f0f58af4"
+                },
+                {
+                    "AssetPath": "Assets/Res/Prefab/Model/Source/Textures/Lemon Bark Color.png",
+                    "AssetGUID": "8d928fcad34ba0242a75b360decfed98"
+                },
+                {
+                    "AssetPath": "Assets/Res/Prefab/Model/Source/Textures/Lemon Bark Normal.png",
+                    "AssetGUID": "8c03514cee68022409c778c5912c6426"
+                },
+                {
+                    "AssetPath": "Assets/Res/Prefab/Model/Source/Textures/Lemon Branch Color.png",
+                    "AssetGUID": "b546e2259560a7541ad7cb60338d3d7d"
+                },
+                {
+                    "AssetPath": "Assets/Res/Prefab/Model/Source/Textures/Lemon Branch Normal.png",
+                    "AssetGUID": "984330eebef34dc4d9b1cd7cebda3c01"
+                }
+            ],
+            "DependBundles": [
+                "defaultpackage_assets_res_prefab_model_source.bundle",
+                "defaultpackage_assets_res_prefab_model_source_materials.bundle",
+                "defaultpackage_assets_res_prefab_model_source_textures.bundle",
+                "defaultpackage_unityshaders.bundle"
+            ]
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/Res/Prefab/Model/Prefabs With Fruits/Lemon Tree 3 w Fruits.prefab",
+            "AssetGUID": "67762154df3b7ca4eaaebcc646c11bbf",
+            "AssetTags": [
+                "Plant"
+            ],
+            "MainBundleName": "defaultpackage_assets_res_prefab_model_prefabs_with_fruits.bundle",
+            "MainBundleSize": 3759,
+            "DependAssets": [
+                {
+                    "AssetPath": "Assets/Res/Prefab/Model/Source/lemon trees w fruits.fbx",
+                    "AssetGUID": "98b0ccf8b6592394f847463b75d797f7"
+                },
+                {
+                    "AssetPath": "Assets/Res/Prefab/Model/Source/Materials/Lemon Bark.mat",
+                    "AssetGUID": "c5cedbf48b824b1419e18ddea44455cb"
+                },
+                {
+                    "AssetPath": "Assets/Res/Prefab/Model/Source/Materials/Lemon Branch.mat",
+                    "AssetGUID": "919766340a0cc574b9c8d588f0f58af4"
+                },
+                {
+                    "AssetPath": "Assets/Res/Prefab/Model/Source/Textures/Lemon Bark Color.png",
+                    "AssetGUID": "8d928fcad34ba0242a75b360decfed98"
+                },
+                {
+                    "AssetPath": "Assets/Res/Prefab/Model/Source/Textures/Lemon Bark Normal.png",
+                    "AssetGUID": "8c03514cee68022409c778c5912c6426"
+                },
+                {
+                    "AssetPath": "Assets/Res/Prefab/Model/Source/Textures/Lemon Branch Color.png",
+                    "AssetGUID": "b546e2259560a7541ad7cb60338d3d7d"
+                },
+                {
+                    "AssetPath": "Assets/Res/Prefab/Model/Source/Textures/Lemon Branch Normal.png",
+                    "AssetGUID": "984330eebef34dc4d9b1cd7cebda3c01"
+                }
+            ],
+            "DependBundles": [
+                "defaultpackage_assets_res_prefab_model_source.bundle",
+                "defaultpackage_assets_res_prefab_model_source_materials.bundle",
+                "defaultpackage_assets_res_prefab_model_source_textures.bundle",
+                "defaultpackage_unityshaders.bundle"
+            ]
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/Res/Prefab/Model/Prefabs With Fruits/Lemon Tree 4 w Fruits.prefab",
+            "AssetGUID": "c1293ad6a2baf184c92d003aa923c284",
+            "AssetTags": [
+                "Plant"
+            ],
+            "MainBundleName": "defaultpackage_assets_res_prefab_model_prefabs_with_fruits.bundle",
+            "MainBundleSize": 3759,
+            "DependAssets": [
+                {
+                    "AssetPath": "Assets/Res/Prefab/Model/Source/lemon trees w fruits.fbx",
+                    "AssetGUID": "98b0ccf8b6592394f847463b75d797f7"
+                },
+                {
+                    "AssetPath": "Assets/Res/Prefab/Model/Source/Materials/Lemon Bark.mat",
+                    "AssetGUID": "c5cedbf48b824b1419e18ddea44455cb"
+                },
+                {
+                    "AssetPath": "Assets/Res/Prefab/Model/Source/Materials/Lemon Branch.mat",
+                    "AssetGUID": "919766340a0cc574b9c8d588f0f58af4"
+                },
+                {
+                    "AssetPath": "Assets/Res/Prefab/Model/Source/Textures/Lemon Bark Color.png",
+                    "AssetGUID": "8d928fcad34ba0242a75b360decfed98"
+                },
+                {
+                    "AssetPath": "Assets/Res/Prefab/Model/Source/Textures/Lemon Bark Normal.png",
+                    "AssetGUID": "8c03514cee68022409c778c5912c6426"
+                },
+                {
+                    "AssetPath": "Assets/Res/Prefab/Model/Source/Textures/Lemon Branch Color.png",
+                    "AssetGUID": "b546e2259560a7541ad7cb60338d3d7d"
+                },
+                {
+                    "AssetPath": "Assets/Res/Prefab/Model/Source/Textures/Lemon Branch Normal.png",
+                    "AssetGUID": "984330eebef34dc4d9b1cd7cebda3c01"
+                }
+            ],
+            "DependBundles": [
+                "defaultpackage_assets_res_prefab_model_source.bundle",
+                "defaultpackage_assets_res_prefab_model_source_materials.bundle",
+                "defaultpackage_assets_res_prefab_model_source_textures.bundle",
+                "defaultpackage_unityshaders.bundle"
+            ]
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/Res/Prefab/Model/Source/lemon 2 terrain mesh.asset",
+            "AssetGUID": "4f627e7dc1e8e474daeb4363c5ae7ffc",
+            "AssetTags": [
+                "Plant"
+            ],
+            "MainBundleName": "defaultpackage_assets_res_prefab_model_source.bundle",
+            "MainBundleSize": 410082,
+            "DependAssets": [],
+            "DependBundles": [
+                "defaultpackage_unityshaders.bundle"
+            ]
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/Res/Prefab/Model/Source/lemon 3 terrain mesh.asset",
+            "AssetGUID": "9cebe566ed4bc914a911431512a808a6",
+            "AssetTags": [
+                "Plant"
+            ],
+            "MainBundleName": "defaultpackage_assets_res_prefab_model_source.bundle",
+            "MainBundleSize": 410082,
+            "DependAssets": [],
+            "DependBundles": [
+                "defaultpackage_unityshaders.bundle"
+            ]
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/Res/Prefab/Model/Source/lemon 4 terrain mesh.asset",
+            "AssetGUID": "5b22d7112ec28b54eb9594af8256c4f7",
+            "AssetTags": [
+                "Plant"
+            ],
+            "MainBundleName": "defaultpackage_assets_res_prefab_model_source.bundle",
+            "MainBundleSize": 410082,
+            "DependAssets": [],
+            "DependBundles": [
+                "defaultpackage_unityshaders.bundle"
+            ]
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/Res/Prefab/Model/Source/lemon trees w fruits.fbx",
+            "AssetGUID": "98b0ccf8b6592394f847463b75d797f7",
+            "AssetTags": [
+                "Plant"
+            ],
+            "MainBundleName": "defaultpackage_assets_res_prefab_model_source.bundle",
+            "MainBundleSize": 410082,
+            "DependAssets": [
+                {
+                    "AssetPath": "Assets/Res/Prefab/Model/Source/Materials/Lemon Bark.mat",
+                    "AssetGUID": "c5cedbf48b824b1419e18ddea44455cb"
+                },
+                {
+                    "AssetPath": "Assets/Res/Prefab/Model/Source/Materials/Lemon Branch.mat",
+                    "AssetGUID": "919766340a0cc574b9c8d588f0f58af4"
+                },
+                {
+                    "AssetPath": "Assets/Res/Prefab/Model/Source/Textures/Lemon Bark Color.png",
+                    "AssetGUID": "8d928fcad34ba0242a75b360decfed98"
+                },
+                {
+                    "AssetPath": "Assets/Res/Prefab/Model/Source/Textures/Lemon Bark Normal.png",
+                    "AssetGUID": "8c03514cee68022409c778c5912c6426"
+                },
+                {
+                    "AssetPath": "Assets/Res/Prefab/Model/Source/Textures/Lemon Branch Color.png",
+                    "AssetGUID": "b546e2259560a7541ad7cb60338d3d7d"
+                },
+                {
+                    "AssetPath": "Assets/Res/Prefab/Model/Source/Textures/Lemon Branch Normal.png",
+                    "AssetGUID": "984330eebef34dc4d9b1cd7cebda3c01"
+                }
+            ],
+            "DependBundles": [
+                "defaultpackage_assets_res_prefab_model_source_materials.bundle",
+                "defaultpackage_assets_res_prefab_model_source_textures.bundle",
+                "defaultpackage_unityshaders.bundle"
+            ]
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/Res/Prefab/Model/Source/lemon trees.fbx",
+            "AssetGUID": "ef80fce6f167feb4392b15e0aedf35d2",
+            "AssetTags": [
+                "Plant"
+            ],
+            "MainBundleName": "defaultpackage_assets_res_prefab_model_source.bundle",
+            "MainBundleSize": 410082,
+            "DependAssets": [
+                {
+                    "AssetPath": "Assets/Res/Prefab/Model/Source/Materials/Lemon Bark.mat",
+                    "AssetGUID": "c5cedbf48b824b1419e18ddea44455cb"
+                },
+                {
+                    "AssetPath": "Assets/Res/Prefab/Model/Source/Materials/Lemon Branch.mat",
+                    "AssetGUID": "919766340a0cc574b9c8d588f0f58af4"
+                },
+                {
+                    "AssetPath": "Assets/Res/Prefab/Model/Source/Textures/Lemon Bark Color.png",
+                    "AssetGUID": "8d928fcad34ba0242a75b360decfed98"
+                },
+                {
+                    "AssetPath": "Assets/Res/Prefab/Model/Source/Textures/Lemon Bark Normal.png",
+                    "AssetGUID": "8c03514cee68022409c778c5912c6426"
+                },
+                {
+                    "AssetPath": "Assets/Res/Prefab/Model/Source/Textures/Lemon Branch Color.png",
+                    "AssetGUID": "b546e2259560a7541ad7cb60338d3d7d"
+                },
+                {
+                    "AssetPath": "Assets/Res/Prefab/Model/Source/Textures/Lemon Branch Normal.png",
+                    "AssetGUID": "984330eebef34dc4d9b1cd7cebda3c01"
+                }
+            ],
+            "DependBundles": [
+                "defaultpackage_assets_res_prefab_model_source_materials.bundle",
+                "defaultpackage_assets_res_prefab_model_source_textures.bundle",
+                "defaultpackage_unityshaders.bundle"
+            ]
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/Res/Prefab/Model/Source/Materials/Lemon Bark Terrain.mat",
+            "AssetGUID": "8d8a27f4d3d525c4b877764b7dc7b7cd",
+            "AssetTags": [
+                "Plant"
+            ],
+            "MainBundleName": "defaultpackage_assets_res_prefab_model_source_materials.bundle",
+            "MainBundleSize": 3130,
+            "DependAssets": [
+                {
+                    "AssetPath": "Assets/Res/Prefab/Model/Source/Textures/Lemon Bark Color.png",
+                    "AssetGUID": "8d928fcad34ba0242a75b360decfed98"
+                },
+                {
+                    "AssetPath": "Assets/Res/Prefab/Model/Source/Textures/Lemon Bark Normal.png",
+                    "AssetGUID": "8c03514cee68022409c778c5912c6426"
+                }
+            ],
+            "DependBundles": [
+                "defaultpackage_assets_res_prefab_model_source_textures.bundle",
+                "defaultpackage_unityshaders.bundle"
+            ]
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/Res/Prefab/Model/Source/Materials/Lemon Bark.mat",
+            "AssetGUID": "c5cedbf48b824b1419e18ddea44455cb",
+            "AssetTags": [
+                "Plant"
+            ],
+            "MainBundleName": "defaultpackage_assets_res_prefab_model_source_materials.bundle",
+            "MainBundleSize": 3130,
+            "DependAssets": [
+                {
+                    "AssetPath": "Assets/Res/Prefab/Model/Source/Textures/Lemon Bark Color.png",
+                    "AssetGUID": "8d928fcad34ba0242a75b360decfed98"
+                },
+                {
+                    "AssetPath": "Assets/Res/Prefab/Model/Source/Textures/Lemon Bark Normal.png",
+                    "AssetGUID": "8c03514cee68022409c778c5912c6426"
+                }
+            ],
+            "DependBundles": [
+                "defaultpackage_assets_res_prefab_model_source_textures.bundle",
+                "defaultpackage_unityshaders.bundle"
+            ]
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/Res/Prefab/Model/Source/Materials/Lemon Branch Terain.mat",
+            "AssetGUID": "a46a97848f663054ab0245b772347e14",
+            "AssetTags": [
+                "Plant"
+            ],
+            "MainBundleName": "defaultpackage_assets_res_prefab_model_source_materials.bundle",
+            "MainBundleSize": 3130,
+            "DependAssets": [
+                {
+                    "AssetPath": "Assets/Res/Prefab/Model/Source/Textures/Lemon Branch Color.png",
+                    "AssetGUID": "b546e2259560a7541ad7cb60338d3d7d"
+                },
+                {
+                    "AssetPath": "Assets/Res/Prefab/Model/Source/Textures/Lemon Branch Normal.png",
+                    "AssetGUID": "984330eebef34dc4d9b1cd7cebda3c01"
+                }
+            ],
+            "DependBundles": [
+                "defaultpackage_assets_res_prefab_model_source_textures.bundle",
+                "defaultpackage_unityshaders.bundle"
+            ]
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/Res/Prefab/Model/Source/Materials/Lemon Branch.mat",
+            "AssetGUID": "919766340a0cc574b9c8d588f0f58af4",
+            "AssetTags": [
+                "Plant"
+            ],
+            "MainBundleName": "defaultpackage_assets_res_prefab_model_source_materials.bundle",
+            "MainBundleSize": 3130,
+            "DependAssets": [
+                {
+                    "AssetPath": "Assets/Res/Prefab/Model/Source/Textures/Lemon Branch Color.png",
+                    "AssetGUID": "b546e2259560a7541ad7cb60338d3d7d"
+                },
+                {
+                    "AssetPath": "Assets/Res/Prefab/Model/Source/Textures/Lemon Branch Normal.png",
+                    "AssetGUID": "984330eebef34dc4d9b1cd7cebda3c01"
+                }
+            ],
+            "DependBundles": [
+                "defaultpackage_assets_res_prefab_model_source_textures.bundle",
+                "defaultpackage_unityshaders.bundle"
+            ]
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/Res/Prefab/Model/Source/Textures/Lemon Bark Color.png",
+            "AssetGUID": "8d928fcad34ba0242a75b360decfed98",
+            "AssetTags": [
+                "Plant"
+            ],
+            "MainBundleName": "defaultpackage_assets_res_prefab_model_source_textures.bundle",
+            "MainBundleSize": 830665,
+            "DependAssets": [],
+            "DependBundles": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/Res/Prefab/Model/Source/Textures/Lemon Bark Normal.png",
+            "AssetGUID": "8c03514cee68022409c778c5912c6426",
+            "AssetTags": [
+                "Plant"
+            ],
+            "MainBundleName": "defaultpackage_assets_res_prefab_model_source_textures.bundle",
+            "MainBundleSize": 830665,
+            "DependAssets": [],
+            "DependBundles": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/Res/Prefab/Model/Source/Textures/Lemon Branch Color.png",
+            "AssetGUID": "b546e2259560a7541ad7cb60338d3d7d",
+            "AssetTags": [
+                "Plant"
+            ],
+            "MainBundleName": "defaultpackage_assets_res_prefab_model_source_textures.bundle",
+            "MainBundleSize": 830665,
+            "DependAssets": [],
+            "DependBundles": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/Res/Prefab/Model/Source/Textures/Lemon Branch Normal.png",
+            "AssetGUID": "984330eebef34dc4d9b1cd7cebda3c01",
+            "AssetTags": [
+                "Plant"
+            ],
+            "MainBundleName": "defaultpackage_assets_res_prefab_model_source_textures.bundle",
+            "MainBundleSize": 830665,
+            "DependAssets": [],
+            "DependBundles": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/Res/Prefab/Model/Terain Prefabs/Lemon Tree 2 Terrain.prefab",
+            "AssetGUID": "dc41cdb983cf13b499619e70eaf48fcb",
+            "AssetTags": [
+                "Plant"
+            ],
+            "MainBundleName": "defaultpackage_assets_res_prefab_model_terain_prefabs.bundle",
+            "MainBundleSize": 3578,
+            "DependAssets": [
+                {
+                    "AssetPath": "Assets/Res/Prefab/Model/Source/lemon 2 terrain mesh.asset",
+                    "AssetGUID": "4f627e7dc1e8e474daeb4363c5ae7ffc"
+                },
+                {
+                    "AssetPath": "Assets/Res/Prefab/Model/Source/Materials/Lemon Bark Terrain.mat",
+                    "AssetGUID": "8d8a27f4d3d525c4b877764b7dc7b7cd"
+                },
+                {
+                    "AssetPath": "Assets/Res/Prefab/Model/Source/Materials/Lemon Branch Terain.mat",
+                    "AssetGUID": "a46a97848f663054ab0245b772347e14"
+                },
+                {
+                    "AssetPath": "Assets/Res/Prefab/Model/Source/Textures/Lemon Bark Color.png",
+                    "AssetGUID": "8d928fcad34ba0242a75b360decfed98"
+                },
+                {
+                    "AssetPath": "Assets/Res/Prefab/Model/Source/Textures/Lemon Bark Normal.png",
+                    "AssetGUID": "8c03514cee68022409c778c5912c6426"
+                },
+                {
+                    "AssetPath": "Assets/Res/Prefab/Model/Source/Textures/Lemon Branch Color.png",
+                    "AssetGUID": "b546e2259560a7541ad7cb60338d3d7d"
+                },
+                {
+                    "AssetPath": "Assets/Res/Prefab/Model/Source/Textures/Lemon Branch Normal.png",
+                    "AssetGUID": "984330eebef34dc4d9b1cd7cebda3c01"
+                }
+            ],
+            "DependBundles": [
+                "defaultpackage_assets_res_prefab_model_source.bundle",
+                "defaultpackage_assets_res_prefab_model_source_materials.bundle",
+                "defaultpackage_assets_res_prefab_model_source_textures.bundle",
+                "defaultpackage_unityshaders.bundle"
+            ]
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/Res/Prefab/Model/Terain Prefabs/Lemon Tree 3 Terrain.prefab",
+            "AssetGUID": "6307fd731e2247b479cddefb30b094fa",
+            "AssetTags": [
+                "Plant"
+            ],
+            "MainBundleName": "defaultpackage_assets_res_prefab_model_terain_prefabs.bundle",
+            "MainBundleSize": 3578,
+            "DependAssets": [
+                {
+                    "AssetPath": "Assets/Res/Prefab/Model/Source/lemon 3 terrain mesh.asset",
+                    "AssetGUID": "9cebe566ed4bc914a911431512a808a6"
+                },
+                {
+                    "AssetPath": "Assets/Res/Prefab/Model/Source/Materials/Lemon Bark Terrain.mat",
+                    "AssetGUID": "8d8a27f4d3d525c4b877764b7dc7b7cd"
+                },
+                {
+                    "AssetPath": "Assets/Res/Prefab/Model/Source/Materials/Lemon Branch Terain.mat",
+                    "AssetGUID": "a46a97848f663054ab0245b772347e14"
+                },
+                {
+                    "AssetPath": "Assets/Res/Prefab/Model/Source/Textures/Lemon Bark Color.png",
+                    "AssetGUID": "8d928fcad34ba0242a75b360decfed98"
+                },
+                {
+                    "AssetPath": "Assets/Res/Prefab/Model/Source/Textures/Lemon Bark Normal.png",
+                    "AssetGUID": "8c03514cee68022409c778c5912c6426"
+                },
+                {
+                    "AssetPath": "Assets/Res/Prefab/Model/Source/Textures/Lemon Branch Color.png",
+                    "AssetGUID": "b546e2259560a7541ad7cb60338d3d7d"
+                },
+                {
+                    "AssetPath": "Assets/Res/Prefab/Model/Source/Textures/Lemon Branch Normal.png",
+                    "AssetGUID": "984330eebef34dc4d9b1cd7cebda3c01"
+                }
+            ],
+            "DependBundles": [
+                "defaultpackage_assets_res_prefab_model_source.bundle",
+                "defaultpackage_assets_res_prefab_model_source_materials.bundle",
+                "defaultpackage_assets_res_prefab_model_source_textures.bundle",
+                "defaultpackage_unityshaders.bundle"
+            ]
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/Res/Prefab/Model/Terain Prefabs/Lemon Tree 4 Terrain.prefab",
+            "AssetGUID": "c1af1c199f153a340921be4c20ccb38f",
+            "AssetTags": [
+                "Plant"
+            ],
+            "MainBundleName": "defaultpackage_assets_res_prefab_model_terain_prefabs.bundle",
+            "MainBundleSize": 3578,
+            "DependAssets": [
+                {
+                    "AssetPath": "Assets/Res/Prefab/Model/Source/lemon 4 terrain mesh.asset",
+                    "AssetGUID": "5b22d7112ec28b54eb9594af8256c4f7"
+                },
+                {
+                    "AssetPath": "Assets/Res/Prefab/Model/Source/Materials/Lemon Bark Terrain.mat",
+                    "AssetGUID": "8d8a27f4d3d525c4b877764b7dc7b7cd"
+                },
+                {
+                    "AssetPath": "Assets/Res/Prefab/Model/Source/Materials/Lemon Branch Terain.mat",
+                    "AssetGUID": "a46a97848f663054ab0245b772347e14"
+                },
+                {
+                    "AssetPath": "Assets/Res/Prefab/Model/Source/Textures/Lemon Bark Color.png",
+                    "AssetGUID": "8d928fcad34ba0242a75b360decfed98"
+                },
+                {
+                    "AssetPath": "Assets/Res/Prefab/Model/Source/Textures/Lemon Bark Normal.png",
+                    "AssetGUID": "8c03514cee68022409c778c5912c6426"
+                },
+                {
+                    "AssetPath": "Assets/Res/Prefab/Model/Source/Textures/Lemon Branch Color.png",
+                    "AssetGUID": "b546e2259560a7541ad7cb60338d3d7d"
+                },
+                {
+                    "AssetPath": "Assets/Res/Prefab/Model/Source/Textures/Lemon Branch Normal.png",
+                    "AssetGUID": "984330eebef34dc4d9b1cd7cebda3c01"
+                }
+            ],
+            "DependBundles": [
+                "defaultpackage_assets_res_prefab_model_source.bundle",
+                "defaultpackage_assets_res_prefab_model_source_materials.bundle",
+                "defaultpackage_assets_res_prefab_model_source_textures.bundle",
+                "defaultpackage_unityshaders.bundle"
+            ]
+        }
+    ],
+    "BundleInfos": [
+        {
+            "BundleName": "defaultpackage_assets_res_prefab_model_prefabs_with_fruits.bundle",
+            "FileName": "f2712994747789f85c267f14f1152219.bundle",
+            "FileHash": "f2712994747789f85c267f14f1152219",
+            "FileCRC": "d0a7b15d",
+            "FileSize": 3759,
+            "Encrypted": false,
+            "Tags": [
+                "Plant"
+            ],
+            "DependBundles": [
+                "defaultpackage_assets_res_prefab_model_source.bundle",
+                "defaultpackage_assets_res_prefab_model_source_materials.bundle",
+                "defaultpackage_assets_res_prefab_model_source_textures.bundle",
+                "defaultpackage_unityshaders.bundle"
+            ],
+            "ReferenceBundles": [],
+            "BundleContents": [
+                {
+                    "AssetPath": "Assets/Res/Prefab/Model/Prefabs With Fruits/Lemon Tree 1 w Fruits.prefab",
+                    "AssetGUID": "46dea74f7999f4c4f9d26ad24b8282c6"
+                },
+                {
+                    "AssetPath": "Assets/Res/Prefab/Model/Prefabs With Fruits/Lemon Tree 2 w Fruits.prefab",
+                    "AssetGUID": "e1a86f799eb10924597db250eb786896"
+                },
+                {
+                    "AssetPath": "Assets/Res/Prefab/Model/Prefabs With Fruits/Lemon Tree 3 w Fruits.prefab",
+                    "AssetGUID": "67762154df3b7ca4eaaebcc646c11bbf"
+                },
+                {
+                    "AssetPath": "Assets/Res/Prefab/Model/Prefabs With Fruits/Lemon Tree 4 w Fruits.prefab",
+                    "AssetGUID": "c1293ad6a2baf184c92d003aa923c284"
+                }
+            ]
+        },
+        {
+            "BundleName": "defaultpackage_assets_res_prefab_model_source.bundle",
+            "FileName": "42c17dcad52c5e006f0103710c0c3ae7.bundle",
+            "FileHash": "42c17dcad52c5e006f0103710c0c3ae7",
+            "FileCRC": "e756a30e",
+            "FileSize": 410082,
+            "Encrypted": false,
+            "Tags": [
+                "Plant"
+            ],
+            "DependBundles": [
+                "defaultpackage_assets_res_prefab_model_source_materials.bundle",
+                "defaultpackage_assets_res_prefab_model_source_textures.bundle",
+                "defaultpackage_unityshaders.bundle"
+            ],
+            "ReferenceBundles": [
+                "defaultpackage_assets_res_prefab_model_prefabs_with_fruits.bundle",
+                "defaultpackage_assets_res_prefab_model_terain_prefabs.bundle"
+            ],
+            "BundleContents": [
+                {
+                    "AssetPath": "Assets/Res/Prefab/Model/Source/lemon 2 terrain mesh.asset",
+                    "AssetGUID": "4f627e7dc1e8e474daeb4363c5ae7ffc"
+                },
+                {
+                    "AssetPath": "Assets/Res/Prefab/Model/Source/lemon 3 terrain mesh.asset",
+                    "AssetGUID": "9cebe566ed4bc914a911431512a808a6"
+                },
+                {
+                    "AssetPath": "Assets/Res/Prefab/Model/Source/lemon 4 terrain mesh.asset",
+                    "AssetGUID": "5b22d7112ec28b54eb9594af8256c4f7"
+                },
+                {
+                    "AssetPath": "Assets/Res/Prefab/Model/Source/lemon trees w fruits.fbx",
+                    "AssetGUID": "98b0ccf8b6592394f847463b75d797f7"
+                },
+                {
+                    "AssetPath": "Assets/Res/Prefab/Model/Source/lemon trees.fbx",
+                    "AssetGUID": "ef80fce6f167feb4392b15e0aedf35d2"
+                }
+            ]
+        },
+        {
+            "BundleName": "defaultpackage_assets_res_prefab_model_source_materials.bundle",
+            "FileName": "38c73156874c4c5cc030dfc849d9e7d5.bundle",
+            "FileHash": "38c73156874c4c5cc030dfc849d9e7d5",
+            "FileCRC": "5677f262",
+            "FileSize": 3130,
+            "Encrypted": false,
+            "Tags": [
+                "Plant"
+            ],
+            "DependBundles": [
+                "defaultpackage_assets_res_prefab_model_source_textures.bundle",
+                "defaultpackage_unityshaders.bundle"
+            ],
+            "ReferenceBundles": [
+                "defaultpackage_assets_res_prefab_model_prefabs_with_fruits.bundle",
+                "defaultpackage_assets_res_prefab_model_source.bundle",
+                "defaultpackage_assets_res_prefab_model_terain_prefabs.bundle"
+            ],
+            "BundleContents": [
+                {
+                    "AssetPath": "Assets/Res/Prefab/Model/Source/Materials/Lemon Bark Terrain.mat",
+                    "AssetGUID": "8d8a27f4d3d525c4b877764b7dc7b7cd"
+                },
+                {
+                    "AssetPath": "Assets/Res/Prefab/Model/Source/Materials/Lemon Bark.mat",
+                    "AssetGUID": "c5cedbf48b824b1419e18ddea44455cb"
+                },
+                {
+                    "AssetPath": "Assets/Res/Prefab/Model/Source/Materials/Lemon Branch Terain.mat",
+                    "AssetGUID": "a46a97848f663054ab0245b772347e14"
+                },
+                {
+                    "AssetPath": "Assets/Res/Prefab/Model/Source/Materials/Lemon Branch.mat",
+                    "AssetGUID": "919766340a0cc574b9c8d588f0f58af4"
+                }
+            ]
+        },
+        {
+            "BundleName": "defaultpackage_assets_res_prefab_model_source_textures.bundle",
+            "FileName": "f4ee0e90732461d84c1996efe270a7c0.bundle",
+            "FileHash": "f4ee0e90732461d84c1996efe270a7c0",
+            "FileCRC": "26b22be0",
+            "FileSize": 830665,
+            "Encrypted": false,
+            "Tags": [
+                "Plant"
+            ],
+            "DependBundles": [],
+            "ReferenceBundles": [
+                "defaultpackage_assets_res_prefab_model_prefabs_with_fruits.bundle",
+                "defaultpackage_assets_res_prefab_model_source.bundle",
+                "defaultpackage_assets_res_prefab_model_source_materials.bundle",
+                "defaultpackage_assets_res_prefab_model_terain_prefabs.bundle"
+            ],
+            "BundleContents": [
+                {
+                    "AssetPath": "Assets/Res/Prefab/Model/Source/Textures/Lemon Bark Color.png",
+                    "AssetGUID": "8d928fcad34ba0242a75b360decfed98"
+                },
+                {
+                    "AssetPath": "Assets/Res/Prefab/Model/Source/Textures/Lemon Bark Normal.png",
+                    "AssetGUID": "8c03514cee68022409c778c5912c6426"
+                },
+                {
+                    "AssetPath": "Assets/Res/Prefab/Model/Source/Textures/Lemon Branch Color.png",
+                    "AssetGUID": "b546e2259560a7541ad7cb60338d3d7d"
+                },
+                {
+                    "AssetPath": "Assets/Res/Prefab/Model/Source/Textures/Lemon Branch Normal.png",
+                    "AssetGUID": "984330eebef34dc4d9b1cd7cebda3c01"
+                }
+            ]
+        },
+        {
+            "BundleName": "defaultpackage_assets_res_prefab_model_terain_prefabs.bundle",
+            "FileName": "76e149dcae7285e2446a46c02be43497.bundle",
+            "FileHash": "76e149dcae7285e2446a46c02be43497",
+            "FileCRC": "5131af1f",
+            "FileSize": 3578,
+            "Encrypted": false,
+            "Tags": [
+                "Plant"
+            ],
+            "DependBundles": [
+                "defaultpackage_assets_res_prefab_model_source.bundle",
+                "defaultpackage_assets_res_prefab_model_source_materials.bundle",
+                "defaultpackage_assets_res_prefab_model_source_textures.bundle",
+                "defaultpackage_unityshaders.bundle"
+            ],
+            "ReferenceBundles": [],
+            "BundleContents": [
+                {
+                    "AssetPath": "Assets/Res/Prefab/Model/Terain Prefabs/Lemon Tree 2 Terrain.prefab",
+                    "AssetGUID": "dc41cdb983cf13b499619e70eaf48fcb"
+                },
+                {
+                    "AssetPath": "Assets/Res/Prefab/Model/Terain Prefabs/Lemon Tree 3 Terrain.prefab",
+                    "AssetGUID": "6307fd731e2247b479cddefb30b094fa"
+                },
+                {
+                    "AssetPath": "Assets/Res/Prefab/Model/Terain Prefabs/Lemon Tree 4 Terrain.prefab",
+                    "AssetGUID": "c1af1c199f153a340921be4c20ccb38f"
+                }
+            ]
+        },
+        {
+            "BundleName": "defaultpackage_unityshaders.bundle",
+            "FileName": "ef47d9f484c05df9e4ca5667f3d4a5c2.bundle",
+            "FileHash": "ef47d9f484c05df9e4ca5667f3d4a5c2",
+            "FileCRC": "89e5a61f",
+            "FileSize": 65724,
+            "Encrypted": false,
+            "Tags": [
+                "Plant"
+            ],
+            "DependBundles": [],
+            "ReferenceBundles": [
+                "defaultpackage_assets_res_prefab_model_prefabs_with_fruits.bundle",
+                "defaultpackage_assets_res_prefab_model_source.bundle",
+                "defaultpackage_assets_res_prefab_model_source_materials.bundle",
+                "defaultpackage_assets_res_prefab_model_terain_prefabs.bundle"
+            ],
+            "BundleContents": []
+        }
+    ],
+    "IndependAssets": []
+}
